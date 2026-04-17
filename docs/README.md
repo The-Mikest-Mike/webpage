@@ -1,11 +1,5 @@
 # 🏆 
 
-- **Backend API** (Node.js, Resend API) hosted on **Vercel**.
-
-- **Backend:** Hosted on Vercel → [API](https://tmmsoftware-resend.vercel.app/)
-
-For detailed instructions, see **[DEPLOYMENT_GUIDE.md](docs/DEPLOYMENT_GUIDE.md)**.
-
 ---
 
 ## 🔄 CI/CD Workflow

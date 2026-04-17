@@ -1,16 +1,6 @@
 # 🏆 
 
 ---
-
-## 🔄 CI/CD Workflow
-🚀 Automated deployment using **GitHub Actions**:
-1. **Push to `main` branch** → Triggers GitHub Actions.
-2. **Frontend Deployment** → Deployed to **GitHub Pages**.
-3. **API Deployment** → Deployed to **Vercel**.
-4. **Security Checks** → Runs code scanning & dependency updates.
-
-See **[CI_CD.md](docs/CI_CD.md)** for details.
-
 ---
 
 ## 📡 API Usage

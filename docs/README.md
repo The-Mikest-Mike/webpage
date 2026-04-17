@@ -16,49 +16,6 @@ This repository includes:
 
 ---
 
-## 📂 Project Structure
-```
-├── api/                        # Backend API files
-│   ├── templates/              # Email templates
-│   │   ├── confirmation-email.html
-│   ├── send-email.js           # Email submission API
-│
-├── docs/                       # Documentation files
-│   ├── API.md                  # API documentation
-│   ├── CI_CD.md                # CI/CD process
-│   ├── DEPLOYMENT_GUIDE.md     # Deployment steps
-│   ├── FILE_STRUCTURE.md       # Project structure
-│   ├── CHANGELOG.md            # Version updates
-│   ├── README.md               # Overview (this file)
-│
-├── index.html                  # Main web page
-├── main.js                      # JavaScript functions
-├── style.css                    # Stylesheet
-├── package.json                 # Node.js dependencies
-├── privacy.html                 # Privacy Policy page (root directory)
-├── terms.html                   # Terms of Service page (root directory)
-```
-
-For a detailed breakdown, check **[FILE_STRUCTURE.md](docs/FILE_STRUCTURE.md)**.
-
----
-
-## 🔧 Setup & Deployment
-### 1️⃣ **Clone the Repository**
-```sh
-git clone https://github.com/TheMikestMike/TMMSoftware.git
-cd TMMSoftware
-```
-
-### 2️⃣ **Install Dependencies**
-```sh
-npm install
-```
-
-### 3️⃣ **Run Locally**
-```sh
-npm start
-```
 
 ### 4️⃣ **Deploy to Production**
 - **Frontend:** Hosted on GitHub Pages → [Live Site](https://tmmsoftware.github.io/)

@@ -1,14 +1,4 @@
-# 🏆 TMM Software
-
-Welcome to **TMM Software** – a platform for innovative software solutions. This repository contains the source code, API, and documentation for our web application and services.
-
----
-
-## 🚀 Project Overview
-TMM Software provides early access to cutting-edge products, including:
-- 📚 **WebQuiz DevNet** – Interactive quizzes for learning.
-- 🖐️ **Gesture Recognition System** – Gesture-based control for macOS.
-- 📂 **Smart File Organizer** – Automates and simplifies file management.
+# 🏆 
 
 This repository includes:
 - **Frontend** (HTML, CSS, JavaScript) hosted on **GitHub Pages**.

@@ -1,7 +1,5 @@
 # 🏆 
 
-This repository includes:
-- **Frontend** (HTML, CSS, JavaScript) hosted on **GitHub Pages**.
 - **Backend API** (Node.js, Resend API) hosted on **Vercel**.
 
 ---
